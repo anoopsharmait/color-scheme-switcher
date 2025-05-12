@@ -1,0 +1,82 @@
+html {
+  margin: 0;
+}
+
+span {
+  display: block;
+}
+.canvas {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+}
+
+.button {
+  width: 100px;
+  height: 100px;
+  border: solid rgb(0, 0, 0) 2px;
+  border-radius: 50%;
+    background: rgb(185, 7, 7);
+  display: inline-block;
+}
+nav{
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+    background-color: goldenrod;
+    justify-content: space-around;
+    text-align: start;
+    align-items: center;
+}
+.nav-items {
+  width: 50px;
+  height: 1.5rem;
+  display: flex;
+
+    justify-content: center;
+  border: solid rgb(180, 41, 41) 2px;
+  display: inline-block;
+}
+#grey {
+  background: grey;
+}
+
+#white {
+  background: white;
+}
+#blue {
+  background: blue;
+}
+#yellow {
+  background: yellow;
+}
+#red {
+  background: red;
+}
+ #green {
+  background: green; 
+}
+#black {
+  background: black;
+}
+#pink {
+  background: pink;
+}
+#purple {
+  background: purple;
+
+}
+
+#orange {
+  background: orange;
+}
+.footer{
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+    background-color: goldenrod;
+    justify-content: space-around;
+    text-align: start;
+    align-items: center;
+
+}
